@@ -1,10 +1,7 @@
-node_modules
-.env
-client/dist
-.DS_Store
 node_modules/
+**/node_modules/
 dist/
+**/dist/
 .env
 .env.*
 !.env.example
-coverage/
